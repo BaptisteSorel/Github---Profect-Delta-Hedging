@@ -16,5 +16,5 @@ This project implements a Monte Carlo simulation to model and hedge a portfolio 
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/TonNom/Delta_Hedging_MSFT_AAPL.git
+git clone https://github.com/BaptisteSorel/Github---Profect-Delta-Hedging.git
  

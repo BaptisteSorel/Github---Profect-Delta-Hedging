@@ -8,8 +8,6 @@ This project implements a Monte Carlo simulation to model and hedge a portfolio 
 
 ## Content
 - [Delta_Hedging_MSFT_AAPL.ipynb](https://github.com/BaptisteSorel/Github---Profect-Delta-Hedging/blob/main/Python%20Project.ipynb): The main Jupyter Notebook containing the code, explanations, and results.
-- [data/Microsoft Cours Historique.xlsx](https://github.com/BaptisteSorel/Github---Profect-Delta-Hedging/blob/main/Microsoft%20Cours%20Historique.xlsx): Historical price data for MSFT.
-- [data/AAPL Données Historiques.xlsx](https://github.com/BaptisteSorel/Github---Profect-Delta-Hedging/blob/main/AAPL%20Donn%C3%A9es%20Historiques.xlsx): Historical price data for AAPL.
 
 ## Installation
 1. Clone the repository:  

@@ -22,5 +22,5 @@ It is divided into three key parts :
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/BaptisteSorel/Github---Project-Delta-HedgingL.git
+   git clone https://github.com/BaptisteSorel/Github---Project-Delta-Hedging.git
  

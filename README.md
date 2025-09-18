@@ -1,4 +1,4 @@
-# Delta Hedging Simulation for a multi-asset portfolio
+# Delta Hedging Simulation for a Multi-Asset Portfolio
 
 ## Project Summary
 This project implements a Monte Carlo simulation to model and hedge a portfolio containing options on Microsoft (MSFT) and Apple (AAPL) stocks. It calculates the Profit and Loss (P&L) with and without delta-neutral hedging, using historical data and stochastic price paths, while incorporating implied volatility estimation and rebalancing frequency analysis.
